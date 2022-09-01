@@ -8,13 +8,15 @@ class Conversion:
         self.elements = 0
 
     def sorter(self, dico:dict) -> dict:
-        output = {}
-        for k in sorted(dico.keys(), key=lambda x:(x.split(" ",1)[-1] if x[0] in LEGEND else x).lower()):
-            if type(dico[k]) is dict:
-                output[k] = self.sorter(dico=dico[k])
-            else:
-                output[k] = dico[k]
-        return output
+        return {
+            k: self.sorter(dico=dico[k]) if type(dico[k]) is dict else dico[k]
+            for k in sorted(
+                dico.keys(),
+                key=lambda x: (
+                    x.split(" ", 1)[-1] if x[0] in LEGEND else x
+                ).lower(),
+            )
+        }
 
     def to_arf(self) -> dict:
         """Converts the userfriendly dict to the arf.json dict"""
