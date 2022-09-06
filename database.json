@@ -21,9 +21,10 @@
             "📦 holehe": "https://github.com/megadose/holehe",
             "📦 GHunt": "https://github.com/mxrch/GHunt",
             "📦 MailCat": "https://github.com/sharsil/mailcat",
-            "🌍 epieos": "https://tools.epieos.com/",
+            "🌍🪙 epieos": "https://tools.epieos.com/",
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf",
-            "🌍 Verify-Email": "https://verify-email.org"
+            "🌍 Verify-Email": "https://verify-email.org",
+            "📦 Censored Domain finder": "https://github.com/novitae/Aet-s-Tools/tree/main/EmDoFi"
         },
         "Data Lookup 🔍": {
             "Leaked Database": {
@@ -62,6 +63,7 @@
                 "📦 Tenai": "https://github.com/novitae/Tenai"
             },
             "Reddit": {
+                "🌍🪙 SocialGrep": "https://socialgrep.com",
                 "📦 Snooper": "https://github.com/NicholasDollick/Snooper",
                 "🌍 Reddective": "https://www.redective.com"
             },
@@ -76,7 +78,8 @@
             "📒❗️ Password Recovery": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
             "GitHub" : {
                 "📦 ZEN": "https://github.com/s0md3v/Zen",
-                "📒 Github Dorks": "https://github.com/techgaun/github-dorks"
+                "📒 Github Dorks": "https://github.com/techgaun/github-dorks",
+                "🌍 Github Code Search": "https://cs.github.com"
             },
             "Twitch": {
                 "📒 Infos on User": "https://twitter.com/cyb_detective/status/1489731978081538051",
@@ -135,7 +138,8 @@
                             "🌍 InfoTracer": "https://infotracer.com"
                         }
                     }
-                }
+                },
+                "🌍 Páginas Amarillas": "https://www.paginasamarillas.com"
             },
             "Asia / Oceania 🌏": {
                 "North Korea 🇰🇵": {
@@ -150,6 +154,9 @@
                 },
                 "China 🇨🇳": {
                     "📒 Download pan.baidu files": "https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397#gistcomment-4013461"
+                },
+                "Japan 🇯🇵": {
+                    "📒 OSINT Ressources for Japan": "https://github.com/Coordinate-Cat/OSINT-JAPAN#osint-japan"
                 }
             },
             "Antarctic 🇦🇶": {},
@@ -171,12 +178,22 @@
                         "🌍 Iceland street view": "https://ja.is/kort/"
                     }
                 },
+                "Poland 🇵🇱": {
+                    "🌍📒 Otwarte Zrodla": "https://otwartezrodla.pl/"
+                },
                 "Russia 🇷🇺": {
                     "Companies": {
                         "🌍 List-Org": "https://www.list-org.com"
                     }
+                },
+                "Spain 🇪🇸": {
+                    "🌍 Cadastre": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCBusqueda.aspx"
+                },
+                "Turkey 🇹🇷": {
+                    "🌍 Yellow&White pages": "http://www.ttrehber.turktelekom.com.tr/?type=white"
                 }
-            }
+            },
+            "🌍📒 Worldwide OSINT Tools Map": "https://cipher387.github.io/osintmap/"
         },
         "Domains 📶": {
             "Subdomains": {
@@ -185,38 +202,40 @@
             "🌍 ScamSearch": "https://scamsearch.io",
             "🌍 Hunter": "https://hunter.io",
             "DNS": {
-                "🌍 Spyse": "https://spyse.com",
                 "🌍 SecurityTrails": "https://securitytrails.com",
                 "🌍 DNSHistory": "http://dnshistory.org"
             },
             "🌍🪙 Shodan": "https://www.shodan.io",
             "Certificates": {
-                "🌍 crt.sh": "https://crt.sh/?"
+                "🌍 crt.sh": "https://crt.sh/"
             },
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf"
         },
-        "Geolocation / Maps 🗺": {
+        "Geolocation & Maps 🗺": {
             "Montains": {
                 "🌍 PeakVisor": "https://peakvisor.com"
             },
-            "Tips": {
+            "GEOINT Tips": {
                 "📒 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128",
-                "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU"
+                "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
+                "📒 Identifying voltage levels of eletric lines": "https://twitter.com/engineers_feed/status/1522799064852537344",
+                "📒🌍 GeoHints": "https://www.geohints.com"
             },
-            "🌍📦 Google Earth": "https://www.google.com/earth/versions/",
             "🌍 InstaHunt": "https://instahunt.co",
+            "🌍🪙 HuntIntel": "https://www.huntintel.io",
             "Satellites": {
                 "🌍 EarthOnDemand": "https://earthondemand.astraea.earth"
             },
             "Street View": {
                 "🌍 Infrared Street View": "https://isv.intofuture.org/maps"
             },
-            "🌍 Rutmap": "https://www.rutmap.com/",
-            "🌍 Overpass Turbo": "https://overpass-turbo.eu",
-            "🌍 Baidu Maps": "https://map.baidu.com",
-            "🌍 360图片": "https://images.so.com/",
-            "🌍 Sogou": "https://pic.sogou.com",
-            "🌍📒 Worldwide OSINT Tools Map": "https://cipher387.github.io/osintmap/"
+            "Maps": {
+                "🌍 Rutmap": "https://www.rutmap.com/",
+                "🌍 Overpass Turbo": "https://overpass-turbo.eu",
+                "🌍 Baidu Maps": "https://map.baidu.com",
+                "🌍 Sogou": "https://pic.sogou.com",
+                "🌍📦 Google Earth": "https://www.google.com/earth/versions/"
+            }        
         },
         "Images 🖼": {
             "Reverse Image Search": {
@@ -270,6 +289,12 @@
                 "DuckDuckGo": {
                     "📒 goDuck": "https://github.com/d34dfr4m3/goDuck"
                 }
+            },
+            "Videos": {
+                "🌍 Youtube Subtitles search": "https://filmot.com/"
+            },
+            "Caches": {
+                "🌍 Cache and Archive search": "https://cipher387.github.io/quickcacheandarchivesearch/"
             }
         },
         "Companies 🏬": {
@@ -317,6 +342,7 @@
             "📒 IP Subnet by regions": "https://github.com/ipverse/rir-ip",
             "🌍 InfoSniper": "https://www.infosniper.net",
             "🌍 InfoByIP": "https://www.infobyip.com/",
+            "🌍 IP Investigation toolbox": "https://cipher387.github.io/domain_investigation_toolbox/ip.html",
             "IP Loggers": {
                 "🌍❗️ Grabify": "https://grabify.link",
                 "🌍❗️ IPLogger": "https://iplogger.org"
